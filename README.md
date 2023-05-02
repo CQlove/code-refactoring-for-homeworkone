@@ -14,7 +14,6 @@ Upload folder to deployed webserver-github.
 
 When users view the webpage, they can use nav bar to guide them to different sections.  
 
-[screenshot](./assets/images/screenshot.png)
 
 [Link to the deployed website](https://cqlove.github.io/code-refactoring-for-homeworkone/)
 
