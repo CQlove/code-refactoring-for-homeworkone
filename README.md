@@ -8,7 +8,7 @@ I did code refactoring to improve the marketing webpage of Horiseon by using sem
 
 ## Installation 
 
-Upload index.html and assets folder including css and images to deployed webserver which is github. 
+N/A
 
 ## Usage
 
