@@ -14,6 +14,7 @@ Upload index.html and assets folder including css and images to deployed webserv
 
 When users view the webpage, they can use nav bar to guide them to different sections.  
 
+![Image text](https://raw.github.com/CQlove/code-refactoring-for-homeworkone/blob/main/assets/images/screenshot.png)
 
 [Link to the deployed website](https://cqlove.github.io/code-refactoring-for-homeworkone/)
 
