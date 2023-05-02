@@ -1,4 +1,4 @@
-# homeworkone code refactoring
+# code-refactoring-for-homeworkone
 
 ## Description
 
