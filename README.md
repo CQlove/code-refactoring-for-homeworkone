@@ -4,11 +4,11 @@
 
 Website of Horiseon optimize
 
-I did code refactoring to improve the marketing webpage of Horiseon by using semantic elements(Can let the html page more clear for every element, so both user and developer can easily understand them). I made webpage nav bar all working right; optimize code for css and made comment.
+I did code refactoring to improve the marketing webpage of Horiseon by using semantic elements(Can let the html page more clear for every element, so both user and developer can easily understand them). I made webpage nav bar all works, and added title for picture to improve the accessibility; optimize code for css based on Scout Rule and made comment.
 
 ## Installation 
 
-Upload folder to deployed webserver-github. 
+Upload index.html and assets folder including css and images to deployed webserver which is github. 
 
 ## Usage
 
